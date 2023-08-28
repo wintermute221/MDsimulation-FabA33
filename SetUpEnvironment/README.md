@@ -1,6 +1,6 @@
 # Parameters and settings before MD simulations
 
-
+For general use purpose
 
 # Courtesy
 
